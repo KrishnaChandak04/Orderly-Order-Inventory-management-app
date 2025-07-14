@@ -340,7 +340,7 @@ After implementing Orderly in my brother's Balaji Wafers distribution:
 ### 🎥 Want a Demo?
 
 **For Distributors/Business Owners:**
-- 📧 **Email me:** [krishnachandak04@gmail.com](mailto:krishnachandak04@gmail.com)
+- 📧 **Email me:** [krishnachandak044@gmail.com](mailto:krishnachandak044@gmail.com)
 - 🔗 **Schedule a call** to see how Orderly can transform your business
 
 **For Developers:**
@@ -554,7 +554,7 @@ git push origin feature/your-amazing-feature
 
 - 🐛 **Found a bug?** → Create an issue on GitHub after upload
 - 💡 **Have an idea?** → Start a discussion on your repository
-- 📧 **Business inquiry?** → [Email me](mailto:krishnachandak04@gmail.com)
+- 📧 **Business inquiry?** → [Email me](mailto:krishnachandak044@gmail.com)
 - 🤝 **Want to contribute?** → Check the Contributing section above
 
 ### 🔧 Quick Troubleshooting
@@ -625,7 +625,7 @@ This project is open source under the **MIT License** - see [LICENSE](LICENSE) f
 ---
 
 **Got questions? Found this useful? Just want to say hi?**  
-**📧 Reach out:** [krishnachandak04@gmail.com](mailto:krishnachandak04@gmail.com)
+**📧 Reach out:** [krishnachandak04@gmail.com](mailto:krishnachandak044@gmail.com)
 
 *Building solutions that matter, one family business at a time.* 🏠✨
 
